@@ -2,7 +2,7 @@ Mönac – Skill Acquisition Platform
 Mönac is a modern, user-centric web interface designed to streamline the journey from curiosity to mastery. By categorizing the educational landscape into structured pathways, it helps learners find the right niche—whether it's formal university training, vocational skills, or specialized education.
 
 🚀 Live Demo
-[Insert your GitHub Pages or Vercel link here]
+[[Live Link](https://monac-agency-88ojrfquw-asmitas-projects-9ea0957c.vercel.app/)]
 
 ✨ Features
 Structured Learning Pillars: Organizes education into 6 clear categories: Formal, Informal, Non-formal, Vocational, Distance, and Special Education.
@@ -22,6 +22,8 @@ Design Philosophy: User-Centric Design (UCD) with a focus on accessibility and c
 
 📂 Project Structure
 Plaintext
+|__assets/
+|__js/
 ├── css/             # Stylesheets (Main and Responsive)
 └── index.html       # Main landing page
 ⚙️ Installation & Usage
@@ -36,4 +38,5 @@ Navigate to the directory:
 Bash
 cd Monac-Learning-Platform
 Open the project:
+
 Simply open index.html in your favorite web browser.
